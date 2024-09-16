@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: aqua;
+}
+
+.product {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.product-image {
+    width: 400px;
+    height: 100%;
+    margin-bottom: 10px;
+}
